@@ -16,3 +16,13 @@ firstName = 'Alicensed';
 
 // Xuất giá trị của biến
 console.log(diemToan);
+
+// Quy tắc đặt tên biến
+let count;
+let Count;
+let _count;
+let $count;
+
+// Không được bắt đầu bằng chữ số hoặc dấu @
+// Viết theo quy tắc camelCase
+let lastName;
